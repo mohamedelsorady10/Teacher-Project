@@ -1,0 +1,395 @@
+﻿namespace PresentationLayerPL
+{
+    partial class StudentsTestFrm
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(StudentsTestFrm));
+            this.npdStudentGrade = new System.Windows.Forms.NumericUpDown();
+            this.dgvTests = new System.Windows.Forms.DataGridView();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.btnNew = new System.Windows.Forms.Button();
+            this.pnlShowAll = new System.Windows.Forms.Panel();
+            this.pnlUpdate = new System.Windows.Forms.Panel();
+            this.lblTitle = new System.Windows.Forms.Label();
+            this.pnlDelete = new System.Windows.Forms.Panel();
+            this.pnlSave = new System.Windows.Forms.Panel();
+            this.btnShowAll = new System.Windows.Forms.Button();
+            this.btnUpdate = new System.Windows.Forms.Button();
+            this.btnDelete = new System.Windows.Forms.Button();
+            this.btnSave = new System.Windows.Forms.Button();
+            this.lblBasicSalary = new System.Windows.Forms.Label();
+            this.lblGroupName = new System.Windows.Forms.Label();
+            this.btnClose = new System.Windows.Forms.Button();
+            this.pnlTitle = new System.Windows.Forms.Panel();
+            this.label1 = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
+            this.cmbStudents = new System.Windows.Forms.ComboBox();
+            this.cmbTests = new System.Windows.Forms.ComboBox();
+            this.cmbGroups = new System.Windows.Forms.ComboBox();
+            this.label2 = new System.Windows.Forms.Label();
+            ((System.ComponentModel.ISupportInitialize)(this.npdStudentGrade)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvTests)).BeginInit();
+            this.pnlTitle.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // npdStudentGrade
+            // 
+            this.npdStudentGrade.Location = new System.Drawing.Point(155, 186);
+            this.npdStudentGrade.Maximum = new decimal(new int[] {
+            2000,
+            0,
+            0,
+            0});
+            this.npdStudentGrade.Name = "npdStudentGrade";
+            this.npdStudentGrade.Size = new System.Drawing.Size(491, 23);
+            this.npdStudentGrade.TabIndex = 192;
+            // 
+            // dgvTests
+            // 
+            this.dgvTests.AllowUserToAddRows = false;
+            this.dgvTests.AllowUserToDeleteRows = false;
+            this.dgvTests.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvTests.Location = new System.Drawing.Point(13, 298);
+            this.dgvTests.Margin = new System.Windows.Forms.Padding(4);
+            this.dgvTests.Name = "dgvTests";
+            this.dgvTests.ReadOnly = true;
+            this.dgvTests.Size = new System.Drawing.Size(813, 292);
+            this.dgvTests.TabIndex = 190;
+            this.dgvTests.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvTests_CellClick);
+            // 
+            // panel1
+            // 
+            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            this.panel1.Location = new System.Drawing.Point(105, 244);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(5, 35);
+            this.panel1.TabIndex = 188;
+            // 
+            // btnNew
+            // 
+            this.btnNew.BackColor = System.Drawing.Color.Transparent;
+            this.btnNew.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            this.btnNew.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnNew.Image = ((System.Drawing.Image)(resources.GetObject("btnNew.Image")));
+            this.btnNew.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnNew.Location = new System.Drawing.Point(105, 244);
+            this.btnNew.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.btnNew.Name = "btnNew";
+            this.btnNew.Size = new System.Drawing.Size(70, 35);
+            this.btnNew.TabIndex = 187;
+            this.btnNew.Text = "New";
+            this.btnNew.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btnNew.UseVisualStyleBackColor = false;
+            this.btnNew.Click += new System.EventHandler(this.btnNew_Click);
+            // 
+            // pnlShowAll
+            // 
+            this.pnlShowAll.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            this.pnlShowAll.Location = new System.Drawing.Point(497, 244);
+            this.pnlShowAll.Name = "pnlShowAll";
+            this.pnlShowAll.Size = new System.Drawing.Size(5, 35);
+            this.pnlShowAll.TabIndex = 186;
+            // 
+            // pnlUpdate
+            // 
+            this.pnlUpdate.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            this.pnlUpdate.Location = new System.Drawing.Point(392, 244);
+            this.pnlUpdate.Name = "pnlUpdate";
+            this.pnlUpdate.Size = new System.Drawing.Size(5, 35);
+            this.pnlUpdate.TabIndex = 185;
+            // 
+            // lblTitle
+            // 
+            this.lblTitle.AutoSize = true;
+            this.lblTitle.ForeColor = System.Drawing.Color.White;
+            this.lblTitle.Location = new System.Drawing.Point(19, 7);
+            this.lblTitle.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblTitle.Name = "lblTitle";
+            this.lblTitle.Size = new System.Drawing.Size(94, 17);
+            this.lblTitle.TabIndex = 5;
+            this.lblTitle.Text = "Students Tests";
+            // 
+            // pnlDelete
+            // 
+            this.pnlDelete.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            this.pnlDelete.Location = new System.Drawing.Point(292, 244);
+            this.pnlDelete.Name = "pnlDelete";
+            this.pnlDelete.Size = new System.Drawing.Size(5, 35);
+            this.pnlDelete.TabIndex = 184;
+            // 
+            // pnlSave
+            // 
+            this.pnlSave.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            this.pnlSave.Location = new System.Drawing.Point(197, 244);
+            this.pnlSave.Name = "pnlSave";
+            this.pnlSave.Size = new System.Drawing.Size(5, 35);
+            this.pnlSave.TabIndex = 183;
+            // 
+            // btnShowAll
+            // 
+            this.btnShowAll.BackColor = System.Drawing.Color.Transparent;
+            this.btnShowAll.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            this.btnShowAll.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnShowAll.Image = ((System.Drawing.Image)(resources.GetObject("btnShowAll.Image")));
+            this.btnShowAll.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnShowAll.Location = new System.Drawing.Point(497, 244);
+            this.btnShowAll.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.btnShowAll.Name = "btnShowAll";
+            this.btnShowAll.Size = new System.Drawing.Size(95, 35);
+            this.btnShowAll.TabIndex = 179;
+            this.btnShowAll.Text = "Show All";
+            this.btnShowAll.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btnShowAll.UseVisualStyleBackColor = false;
+            this.btnShowAll.Click += new System.EventHandler(this.btnShowAll_Click);
+            // 
+            // btnUpdate
+            // 
+            this.btnUpdate.BackColor = System.Drawing.Color.Transparent;
+            this.btnUpdate.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            this.btnUpdate.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnUpdate.Image = ((System.Drawing.Image)(resources.GetObject("btnUpdate.Image")));
+            this.btnUpdate.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnUpdate.Location = new System.Drawing.Point(392, 244);
+            this.btnUpdate.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.btnUpdate.Name = "btnUpdate";
+            this.btnUpdate.Size = new System.Drawing.Size(88, 35);
+            this.btnUpdate.TabIndex = 180;
+            this.btnUpdate.Text = "Update";
+            this.btnUpdate.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btnUpdate.UseVisualStyleBackColor = false;
+            this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
+            // 
+            // btnDelete
+            // 
+            this.btnDelete.BackColor = System.Drawing.Color.Transparent;
+            this.btnDelete.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            this.btnDelete.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnDelete.Image = ((System.Drawing.Image)(resources.GetObject("btnDelete.Image")));
+            this.btnDelete.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnDelete.Location = new System.Drawing.Point(292, 244);
+            this.btnDelete.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.btnDelete.Name = "btnDelete";
+            this.btnDelete.Size = new System.Drawing.Size(85, 35);
+            this.btnDelete.TabIndex = 181;
+            this.btnDelete.Text = "Delete";
+            this.btnDelete.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btnDelete.UseVisualStyleBackColor = false;
+            this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
+            // 
+            // btnSave
+            // 
+            this.btnSave.BackColor = System.Drawing.Color.Transparent;
+            this.btnSave.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            this.btnSave.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnSave.Image = ((System.Drawing.Image)(resources.GetObject("btnSave.Image")));
+            this.btnSave.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnSave.Location = new System.Drawing.Point(197, 244);
+            this.btnSave.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.btnSave.Name = "btnSave";
+            this.btnSave.Size = new System.Drawing.Size(81, 35);
+            this.btnSave.TabIndex = 182;
+            this.btnSave.Text = "Save";
+            this.btnSave.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btnSave.UseVisualStyleBackColor = false;
+            this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
+            // 
+            // lblBasicSalary
+            // 
+            this.lblBasicSalary.AutoSize = true;
+            this.lblBasicSalary.Location = new System.Drawing.Point(36, 188);
+            this.lblBasicSalary.Name = "lblBasicSalary";
+            this.lblBasicSalary.Size = new System.Drawing.Size(102, 17);
+            this.lblBasicSalary.TabIndex = 177;
+            this.lblBasicSalary.Text = "Student Grade";
+            // 
+            // lblGroupName
+            // 
+            this.lblGroupName.AutoSize = true;
+            this.lblGroupName.Location = new System.Drawing.Point(34, 93);
+            this.lblGroupName.Name = "lblGroupName";
+            this.lblGroupName.Size = new System.Drawing.Size(101, 17);
+            this.lblGroupName.TabIndex = 176;
+            this.lblGroupName.Text = "Student Name";
+            // 
+            // btnClose
+            // 
+            this.btnClose.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnClose.BackgroundImage")));
+            this.btnClose.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.btnClose.FlatAppearance.BorderSize = 0;
+            this.btnClose.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnClose.Location = new System.Drawing.Point(793, 0);
+            this.btnClose.Margin = new System.Windows.Forms.Padding(4);
+            this.btnClose.Name = "btnClose";
+            this.btnClose.Size = new System.Drawing.Size(47, 35);
+            this.btnClose.TabIndex = 4;
+            this.btnClose.UseVisualStyleBackColor = true;
+            this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
+            // 
+            // pnlTitle
+            // 
+            this.pnlTitle.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            this.pnlTitle.Controls.Add(this.lblTitle);
+            this.pnlTitle.Controls.Add(this.btnClose);
+            this.pnlTitle.Dock = System.Windows.Forms.DockStyle.Top;
+            this.pnlTitle.Location = new System.Drawing.Point(0, 0);
+            this.pnlTitle.Margin = new System.Windows.Forms.Padding(4);
+            this.pnlTitle.Name = "pnlTitle";
+            this.pnlTitle.Size = new System.Drawing.Size(839, 34);
+            this.pnlTitle.TabIndex = 175;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(34, 141);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(75, 17);
+            this.label1.TabIndex = 193;
+            this.label1.Text = "Test Name";
+            // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.Color.Transparent;
+            this.button1.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.Image = ((System.Drawing.Image)(resources.GetObject("button1.Image")));
+            this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button1.Location = new System.Drawing.Point(690, 235);
+            this.button1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(137, 44);
+            this.button1.TabIndex = 195;
+            this.button1.Text = "Add New Test";
+            this.button1.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // cmbStudents
+            // 
+            this.cmbStudents.FormattingEnabled = true;
+            this.cmbStudents.Location = new System.Drawing.Point(155, 93);
+            this.cmbStudents.Name = "cmbStudents";
+            this.cmbStudents.Size = new System.Drawing.Size(491, 25);
+            this.cmbStudents.TabIndex = 196;
+            // 
+            // cmbTests
+            // 
+            this.cmbTests.FormattingEnabled = true;
+            this.cmbTests.Location = new System.Drawing.Point(155, 141);
+            this.cmbTests.Name = "cmbTests";
+            this.cmbTests.Size = new System.Drawing.Size(491, 25);
+            this.cmbTests.TabIndex = 197;
+            // 
+            // cmbGroups
+            // 
+            this.cmbGroups.FormattingEnabled = true;
+            this.cmbGroups.Location = new System.Drawing.Point(155, 50);
+            this.cmbGroups.Name = "cmbGroups";
+            this.cmbGroups.Size = new System.Drawing.Size(491, 25);
+            this.cmbGroups.TabIndex = 198;
+            this.cmbGroups.SelectedIndexChanged += new System.EventHandler(this.cmbGroups_SelectedIndexChanged);
+            this.cmbGroups.SelectionChangeCommitted += new System.EventHandler(this.cmbGroups_SelectionChangeCommitted);
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(34, 51);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(49, 17);
+            this.label2.TabIndex = 199;
+            this.label2.Text = "Group";
+            // 
+            // StudentsTestFrm
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.White;
+            this.ClientSize = new System.Drawing.Size(839, 603);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.cmbGroups);
+            this.Controls.Add(this.cmbTests);
+            this.Controls.Add(this.cmbStudents);
+            this.Controls.Add(this.button1);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.npdStudentGrade);
+            this.Controls.Add(this.dgvTests);
+            this.Controls.Add(this.panel1);
+            this.Controls.Add(this.btnNew);
+            this.Controls.Add(this.pnlShowAll);
+            this.Controls.Add(this.pnlUpdate);
+            this.Controls.Add(this.pnlDelete);
+            this.Controls.Add(this.pnlSave);
+            this.Controls.Add(this.btnShowAll);
+            this.Controls.Add(this.btnUpdate);
+            this.Controls.Add(this.btnDelete);
+            this.Controls.Add(this.btnSave);
+            this.Controls.Add(this.lblBasicSalary);
+            this.Controls.Add(this.lblGroupName);
+            this.Controls.Add(this.pnlTitle);
+            this.Font = new System.Drawing.Font("Century Gothic", 9.75F);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Margin = new System.Windows.Forms.Padding(4);
+            this.Name = "StudentsTestFrm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "StudentsTestFrm";
+            this.Load += new System.EventHandler(this.StudentsTestFrm_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.npdStudentGrade)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvTests)).EndInit();
+            this.pnlTitle.ResumeLayout(false);
+            this.pnlTitle.PerformLayout();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.NumericUpDown npdStudentGrade;
+        private System.Windows.Forms.DataGridView dgvTests;
+        private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.Button btnNew;
+        private System.Windows.Forms.Panel pnlShowAll;
+        private System.Windows.Forms.Panel pnlUpdate;
+        private System.Windows.Forms.Label lblTitle;
+        private System.Windows.Forms.Panel pnlDelete;
+        private System.Windows.Forms.Panel pnlSave;
+        private System.Windows.Forms.Button btnShowAll;
+        private System.Windows.Forms.Button btnUpdate;
+        private System.Windows.Forms.Button btnDelete;
+        private System.Windows.Forms.Button btnSave;
+        private System.Windows.Forms.Label lblBasicSalary;
+        private System.Windows.Forms.Label lblGroupName;
+        private System.Windows.Forms.Button btnClose;
+        private System.Windows.Forms.Panel pnlTitle;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.ComboBox cmbStudents;
+        private System.Windows.Forms.ComboBox cmbTests;
+        private System.Windows.Forms.ComboBox cmbGroups;
+        private System.Windows.Forms.Label label2;
+    }
+}

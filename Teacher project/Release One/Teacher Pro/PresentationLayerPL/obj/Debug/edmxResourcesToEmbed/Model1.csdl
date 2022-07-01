@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TeacherDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Attendance">
+    <Key>
+      <PropertyRef Name="AttendanceID" />
+    </Key>
+    <Property Name="AttendanceID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AttendanceDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="studentID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Student" Relationship="Self.FK_Attendances_Students" FromRole="Attendances" ToRole="Students" />
+  </EntityType>
+  <EntityType Name="Group">
+    <Key>
+      <PropertyRef Name="GroupId" />
+    </Key>
+    <Property Name="GroupId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="GroupName" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="GroupLocation" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="GroupDate" Type="DateTime" Nullable="false" Precision="0" />
+    <NavigationProperty Name="Students" Relationship="Self.FK_Students_Groups" FromRole="Groups" ToRole="Students" />
+  </EntityType>
+  <EntityType Name="Payment">
+    <Key>
+      <PropertyRef Name="PaymentId" />
+    </Key>
+    <Property Name="PaymentId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PaymentAmount" Type="Decimal" Precision="9" Scale="2" Nullable="false" />
+    <Property Name="PaymentDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="StudentId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Student" Relationship="Self.FK_Payments_Students" FromRole="Payments" ToRole="Students" />
+  </EntityType>
+  <EntityType Name="Student">
+    <Key>
+      <PropertyRef Name="StudentId" />
+    </Key>
+    <Property Name="StudentId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="StudentName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="StudentMobile" Type="String" MaxLength="14" FixedLength="false" Unicode="true" />
+    <Property Name="ParentMobile" Type="String" MaxLength="14" FixedLength="false" Unicode="true" />
+    <Property Name="StudentAddress" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="Notes" Type="String" MaxLength="300" FixedLength="false" Unicode="true" />
+    <Property Name="GroupId" Type="Int32" />
+    <NavigationProperty Name="Attendances" Relationship="Self.FK_Attendances_Students" FromRole="Students" ToRole="Attendances" />
+    <NavigationProperty Name="Group" Relationship="Self.FK_Students_Groups" FromRole="Students" ToRole="Groups" />
+    <NavigationProperty Name="Payments" Relationship="Self.FK_Payments_Students" FromRole="Students" ToRole="Payments" />
+    <NavigationProperty Name="StudentTests" Relationship="Self.FK_StudentTests_Students" FromRole="Students" ToRole="StudentTests" />
+  </EntityType>
+  <EntityType Name="StudentTest">
+    <Key>
+      <PropertyRef Name="StudentTestID" />
+    </Key>
+    <Property Name="StudentTestID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="StudentId" Type="Int32" Nullable="false" />
+    <Property Name="TestId" Type="Int32" Nullable="false" />
+    <Property Name="StudentGrade" Type="Decimal" Precision="9" Scale="2" Nullable="false" />
+    <NavigationProperty Name="Student" Relationship="Self.FK_StudentTests_Students" FromRole="StudentTests" ToRole="Students" />
+    <NavigationProperty Name="Test" Relationship="Self.FK_StudentTests_Tests" FromRole="StudentTests" ToRole="Tests" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Test">
+    <Key>
+      <PropertyRef Name="TestId" />
+    </Key>
+    <Property Name="TestId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TestName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="TestDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="TestGrade" Type="Decimal" Precision="9" Scale="2" Nullable="false" />
+    <NavigationProperty Name="StudentTests" Relationship="Self.FK_StudentTests_Tests" FromRole="Tests" ToRole="StudentTests" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="UserPassword" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Attendances_Students">
+    <End Role="Students" Type="Self.Student" Multiplicity="1" />
+    <End Role="Attendances" Type="Self.Attendance" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Students">
+        <PropertyRef Name="StudentId" />
+      </Principal>
+      <Dependent Role="Attendances">
+        <PropertyRef Name="studentID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Students_Groups">
+    <End Role="Groups" Type="Self.Group" Multiplicity="0..1" />
+    <End Role="Students" Type="Self.Student" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Groups">
+        <PropertyRef Name="GroupId" />
+      </Principal>
+      <Dependent Role="Students">
+        <PropertyRef Name="GroupId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Payments_Students">
+    <End Role="Students" Type="Self.Student" Multiplicity="1" />
+    <End Role="Payments" Type="Self.Payment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Students">
+        <PropertyRef Name="StudentId" />
+      </Principal>
+      <Dependent Role="Payments">
+        <PropertyRef Name="StudentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_StudentTests_Students">
+    <End Role="Students" Type="Self.Student" Multiplicity="1" />
+    <End Role="StudentTests" Type="Self.StudentTest" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Students">
+        <PropertyRef Name="StudentId" />
+      </Principal>
+      <Dependent Role="StudentTests">
+        <PropertyRef Name="StudentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_StudentTests_Tests">
+    <End Role="Tests" Type="Self.Test" Multiplicity="1" />
+    <End Role="StudentTests" Type="Self.StudentTest" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tests">
+        <PropertyRef Name="TestId" />
+      </Principal>
+      <Dependent Role="StudentTests">
+        <PropertyRef Name="TestId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="TeacherDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Attendances" EntityType="Self.Attendance" />
+    <EntitySet Name="Groups" EntityType="Self.Group" />
+    <EntitySet Name="Payments" EntityType="Self.Payment" />
+    <EntitySet Name="Students" EntityType="Self.Student" />
+    <EntitySet Name="StudentTests" EntityType="Self.StudentTest" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <EntitySet Name="Tests" EntityType="Self.Test" />
+    <EntitySet Name="Users" EntityType="Self.User" />
+    <AssociationSet Name="FK_Attendances_Students" Association="Self.FK_Attendances_Students">
+      <End Role="Students" EntitySet="Students" />
+      <End Role="Attendances" EntitySet="Attendances" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Students_Groups" Association="Self.FK_Students_Groups">
+      <End Role="Groups" EntitySet="Groups" />
+      <End Role="Students" EntitySet="Students" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Payments_Students" Association="Self.FK_Payments_Students">
+      <End Role="Students" EntitySet="Students" />
+      <End Role="Payments" EntitySet="Payments" />
+    </AssociationSet>
+    <AssociationSet Name="FK_StudentTests_Students" Association="Self.FK_StudentTests_Students">
+      <End Role="Students" EntitySet="Students" />
+      <End Role="StudentTests" EntitySet="StudentTests" />
+    </AssociationSet>
+    <AssociationSet Name="FK_StudentTests_Tests" Association="Self.FK_StudentTests_Tests">
+      <End Role="Tests" EntitySet="Tests" />
+      <End Role="StudentTests" EntitySet="StudentTests" />
+    </AssociationSet>
+    <FunctionImport Name="sp_alterdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_creatediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_dropdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_GroupDelete">
+      <Parameter Name="GroupId" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_GroupInsert">
+      <Parameter Name="GroupName" Mode="In" Type="String" />
+      <Parameter Name="GroupLocation" Mode="In" Type="String" />
+      <Parameter Name="GroupDate" Mode="In" Type="DateTime" />
+    </FunctionImport>
+    <FunctionImport Name="sp_GroupsReadAll" ReturnType="Collection(TeacherDBModel.sp_GroupsReadAll_Result)" />
+    <FunctionImport Name="sp_GroupsReadbyID" ReturnType="Collection(TeacherDBModel.sp_GroupsReadbyID_Result)">
+      <Parameter Name="GroupId" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_GroupsUpdate">
+      <Parameter Name="GroupId" Mode="In" Type="Int32" />
+      <Parameter Name="GroupName" Mode="In" Type="String" />
+      <Parameter Name="GroupLocation" Mode="In" Type="String" />
+      <Parameter Name="GroupDate" Mode="In" Type="DateTime" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagramdefinition" ReturnType="Collection(TeacherDBModel.sp_helpdiagramdefinition_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagrams" ReturnType="Collection(TeacherDBModel.sp_helpdiagrams_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_renamediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="new_diagramname" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="sp_StudentDelete">
+      <Parameter Name="StudentId" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_StudentInsert">
+      <Parameter Name="StudentName" Mode="In" Type="String" />
+      <Parameter Name="StudentMobile" Mode="In" Type="String" />
+      <Parameter Name="ParentMobile" Mode="In" Type="String" />
+      <Parameter Name="StudentAddress" Mode="In" Type="String" />
+      <Parameter Name="Notes" Mode="In" Type="String" />
+      <Parameter Name="GroupId" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_StudentsReadAll" ReturnType="Collection(TeacherDBModel.sp_StudentsReadAll_Result)" />
+    <FunctionImport Name="sp_StudentsReadbyGroupId" ReturnType="Collection(TeacherDBModel.sp_StudentsReadbyGroupId_Result)">
+      <Parameter Name="GroupId" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_StudentsReadbyID" ReturnType="Collection(TeacherDBModel.sp_StudentsReadbyID_Result)">
+      <Parameter Name="StudentId" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_StudentsUpdate">
+      <Parameter Name="StudentId" Mode="In" Type="Int32" />
+      <Parameter Name="StudentName" Mode="In" Type="String" />
+      <Parameter Name="StudentMobile" Mode="In" Type="String" />
+      <Parameter Name="ParentMobile" Mode="In" Type="String" />
+      <Parameter Name="StudentAddress" Mode="In" Type="String" />
+      <Parameter Name="Notes" Mode="In" Type="String" />
+      <Parameter Name="GroupId" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_upgraddiagrams" />
+  </EntityContainer>
+  <ComplexType Name="sp_GroupsReadAll_Result">
+    <Property Type="Int32" Name="GroupId" Nullable="false" />
+    <Property Type="String" Name="GroupName" Nullable="false" MaxLength="200" />
+    <Property Type="String" Name="GroupLocation" Nullable="false" MaxLength="200" />
+    <Property Type="DateTime" Name="GroupDate" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="sp_GroupsReadbyID_Result">
+    <Property Type="Int32" Name="GroupId" Nullable="false" />
+    <Property Type="String" Name="GroupName" Nullable="false" MaxLength="200" />
+    <Property Type="String" Name="GroupLocation" Nullable="false" MaxLength="200" />
+    <Property Type="DateTime" Name="GroupDate" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="sp_helpdiagramdefinition_Result">
+    <Property Type="Int32" Name="version" Nullable="true" />
+    <Property Type="Binary" Name="definition" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="sp_helpdiagrams_Result">
+    <Property Type="String" Name="Database" Nullable="true" MaxLength="128" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="128" />
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="String" Name="Owner" Nullable="true" MaxLength="128" />
+    <Property Type="Int32" Name="OwnerID" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="sp_StudentsReadAll_Result">
+    <Property Type="Int32" Name="StudentId" Nullable="false" />
+    <Property Type="String" Name="StudentName" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="StudentMobile" Nullable="true" MaxLength="14" />
+    <Property Type="String" Name="ParentMobile" Nullable="true" MaxLength="14" />
+    <Property Type="String" Name="StudentAddress" Nullable="true" MaxLength="200" />
+    <Property Type="String" Name="Notes" Nullable="true" MaxLength="300" />
+    <Property Type="Int32" Name="GroupId" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="sp_StudentsReadbyGroupId_Result">
+    <Property Type="Int32" Name="StudentId" Nullable="false" />
+    <Property Type="String" Name="StudentName" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="StudentMobile" Nullable="true" MaxLength="14" />
+    <Property Type="String" Name="ParentMobile" Nullable="true" MaxLength="14" />
+    <Property Type="String" Name="StudentAddress" Nullable="true" MaxLength="200" />
+    <Property Type="String" Name="Notes" Nullable="true" MaxLength="300" />
+    <Property Type="Int32" Name="GroupId" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="sp_StudentsReadbyID_Result">
+    <Property Type="Int32" Name="StudentId" Nullable="false" />
+    <Property Type="String" Name="StudentName" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="StudentMobile" Nullable="true" MaxLength="14" />
+    <Property Type="String" Name="ParentMobile" Nullable="true" MaxLength="14" />
+    <Property Type="String" Name="StudentAddress" Nullable="true" MaxLength="200" />
+    <Property Type="String" Name="Notes" Nullable="true" MaxLength="300" />
+    <Property Type="Int32" Name="GroupId" Nullable="true" />
+  </ComplexType>
+</Schema>

@@ -1,0 +1,36 @@
+E:\Teacher project\AaserHRSystem\BusinessLayerBL\bin\Debug\BusinessLayerBL.dll
+E:\Teacher project\AaserHRSystem\BusinessLayerBL\bin\Debug\BusinessLayerBL.pdb
+E:\Teacher project\AaserHRSystem\BusinessLayerBL\obj\Debug\BusinessLayerBL.csprojAssemblyReference.cache
+E:\Teacher project\AaserHRSystem\BusinessLayerBL\obj\Debug\BusinessLayerBL.csproj.CoreCompileInputs.cache
+E:\Teacher project\AaserHRSystem\BusinessLayerBL\obj\Debug\BusinessLayerBL.dll
+E:\Teacher project\AaserHRSystem\BusinessLayerBL\obj\Debug\BusinessLayerBL.pdb
+E:\Teacher project\AaserHRSystem\BusinessLayerBL\bin\Debug\AaserFrameworkFCL.dll
+E:\Teacher project\AaserHRSystem\BusinessLayerBL\bin\Debug\DataAccessLayerDAL.dll
+E:\Teacher project\AaserHRSystem\BusinessLayerBL\bin\Debug\AaserFrameworkFCL.pdb
+E:\Teacher project\AaserHRSystem\BusinessLayerBL\bin\Debug\DataAccessLayerDAL.pdb
+E:\Teacher project\AaserHRSystem\BusinessLayerBL\bin\Debug\DataAccessLayerDAL.dll.config
+E:\Teacher project\AaserHRSystem\BusinessLayerBL\obj\Debug\BusinessLayerBL.csproj.CopyComplete
+E:\Teacher project\Teacher Pro\BusinessLayerBL\bin\Debug\BusinessLayerBL.dll
+E:\Teacher project\Teacher Pro\BusinessLayerBL\bin\Debug\BusinessLayerBL.pdb
+E:\Teacher project\Teacher Pro\BusinessLayerBL\bin\Debug\AaserFrameworkFCL.dll
+E:\Teacher project\Teacher Pro\BusinessLayerBL\bin\Debug\DataAccessLayerDAL.dll
+E:\Teacher project\Teacher Pro\BusinessLayerBL\bin\Debug\AaserFrameworkFCL.pdb
+E:\Teacher project\Teacher Pro\BusinessLayerBL\bin\Debug\DataAccessLayerDAL.pdb
+E:\Teacher project\Teacher Pro\BusinessLayerBL\bin\Debug\DataAccessLayerDAL.dll.config
+E:\Teacher project\Teacher Pro\BusinessLayerBL\obj\Debug\BusinessLayerBL.csprojAssemblyReference.cache
+E:\Teacher project\Teacher Pro\BusinessLayerBL\obj\Debug\BusinessLayerBL.csproj.CoreCompileInputs.cache
+E:\Teacher project\Teacher Pro\BusinessLayerBL\obj\Debug\BusinessLayerBL.csproj.CopyComplete
+E:\Teacher project\Teacher Pro\BusinessLayerBL\obj\Debug\BusinessLayerBL.dll
+E:\Teacher project\Teacher Pro\BusinessLayerBL\obj\Debug\BusinessLayerBL.pdb
+E:\Teacher project\Release One\Teacher Pro\BusinessLayerBL\bin\Debug\BusinessLayerBL.dll
+E:\Teacher project\Release One\Teacher Pro\BusinessLayerBL\bin\Debug\BusinessLayerBL.pdb
+E:\Teacher project\Release One\Teacher Pro\BusinessLayerBL\bin\Debug\AaserFrameworkFCL.dll
+E:\Teacher project\Release One\Teacher Pro\BusinessLayerBL\bin\Debug\DataAccessLayerDAL.dll
+E:\Teacher project\Release One\Teacher Pro\BusinessLayerBL\bin\Debug\AaserFrameworkFCL.pdb
+E:\Teacher project\Release One\Teacher Pro\BusinessLayerBL\bin\Debug\DataAccessLayerDAL.pdb
+E:\Teacher project\Release One\Teacher Pro\BusinessLayerBL\bin\Debug\DataAccessLayerDAL.dll.config
+E:\Teacher project\Release One\Teacher Pro\BusinessLayerBL\obj\Debug\BusinessLayerBL.csprojAssemblyReference.cache
+E:\Teacher project\Release One\Teacher Pro\BusinessLayerBL\obj\Debug\BusinessLayerBL.csproj.CoreCompileInputs.cache
+E:\Teacher project\Release One\Teacher Pro\BusinessLayerBL\obj\Debug\BusinessLayerBL.csproj.CopyComplete
+E:\Teacher project\Release One\Teacher Pro\BusinessLayerBL\obj\Debug\BusinessLayerBL.dll
+E:\Teacher project\Release One\Teacher Pro\BusinessLayerBL\obj\Debug\BusinessLayerBL.pdb

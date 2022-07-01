@@ -1,0 +1,23 @@
+E:\Teacher project\AaserHRSystem\WebServicesLayerSL\bin\Debug\WebServicesLayerSL.dll
+E:\Teacher project\AaserHRSystem\WebServicesLayerSL\bin\Debug\WebServicesLayerSL.pdb
+E:\Teacher project\AaserHRSystem\WebServicesLayerSL\obj\Debug\WebServicesLayerSL.csproj.CoreCompileInputs.cache
+E:\Teacher project\AaserHRSystem\WebServicesLayerSL\obj\Debug\WebServicesLayerSL.dll
+E:\Teacher project\AaserHRSystem\WebServicesLayerSL\obj\Debug\WebServicesLayerSL.pdb
+E:\Teacher project\Teacher Pro\WebServicesLayerSL\bin\Debug\WebServicesLayerSL.dll
+E:\Teacher project\Teacher Pro\WebServicesLayerSL\bin\Debug\WebServicesLayerSL.pdb
+E:\Teacher project\Teacher Pro\WebServicesLayerSL\obj\Debug\WebServicesLayerSL.csprojAssemblyReference.cache
+E:\Teacher project\Teacher Pro\WebServicesLayerSL\obj\Debug\WebServicesLayerSL.csproj.CoreCompileInputs.cache
+E:\Teacher project\Teacher Pro\WebServicesLayerSL\obj\Debug\WebServicesLayerSL.dll
+E:\Teacher project\Teacher Pro\WebServicesLayerSL\obj\Debug\WebServicesLayerSL.pdb
+E:\Teacher project\Release One\Teacher Pro\WebServicesLayerSL\bin\Debug\WebServicesLayerSL.dll
+E:\Teacher project\Release One\Teacher Pro\WebServicesLayerSL\bin\Debug\WebServicesLayerSL.pdb
+E:\Teacher project\Release One\Teacher Pro\WebServicesLayerSL\obj\Debug\WebServicesLayerSL.csprojAssemblyReference.cache
+E:\Teacher project\Release One\Teacher Pro\WebServicesLayerSL\obj\Debug\WebServicesLayerSL.csproj.CoreCompileInputs.cache
+E:\Teacher project\Release One\Teacher Pro\WebServicesLayerSL\obj\Debug\WebServicesLayerSL.dll
+E:\Teacher project\Release One\Teacher Pro\WebServicesLayerSL\obj\Debug\WebServicesLayerSL.pdb
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\WebServicesLayerSL\bin\Debug\WebServicesLayerSL.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\WebServicesLayerSL\bin\Debug\WebServicesLayerSL.pdb
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\WebServicesLayerSL\obj\Debug\WebServicesLayerSL.csprojAssemblyReference.cache
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\WebServicesLayerSL\obj\Debug\WebServicesLayerSL.csproj.CoreCompileInputs.cache
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\WebServicesLayerSL\obj\Debug\WebServicesLayerSL.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\WebServicesLayerSL\obj\Debug\WebServicesLayerSL.pdb

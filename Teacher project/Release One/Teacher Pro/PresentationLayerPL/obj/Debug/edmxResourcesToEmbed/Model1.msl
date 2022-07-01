@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TeacherDBModelStoreContainer" CdmEntityContainer="TeacherDBEntities">
+    <EntitySetMapping Name="Attendances">
+      <EntityTypeMapping TypeName="TeacherDBModel.Attendance">
+        <MappingFragment StoreEntitySet="Attendances">
+          <ScalarProperty Name="AttendanceID" ColumnName="AttendanceID" />
+          <ScalarProperty Name="AttendanceDate" ColumnName="AttendanceDate" />
+          <ScalarProperty Name="studentID" ColumnName="studentID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Groups">
+      <EntityTypeMapping TypeName="TeacherDBModel.Group">
+        <MappingFragment StoreEntitySet="Groups">
+          <ScalarProperty Name="GroupId" ColumnName="GroupId" />
+          <ScalarProperty Name="GroupName" ColumnName="GroupName" />
+          <ScalarProperty Name="GroupLocation" ColumnName="GroupLocation" />
+          <ScalarProperty Name="GroupDate" ColumnName="GroupDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Payments">
+      <EntityTypeMapping TypeName="TeacherDBModel.Payment">
+        <MappingFragment StoreEntitySet="Payments">
+          <ScalarProperty Name="PaymentId" ColumnName="PaymentId" />
+          <ScalarProperty Name="PaymentAmount" ColumnName="PaymentAmount" />
+          <ScalarProperty Name="PaymentDate" ColumnName="PaymentDate" />
+          <ScalarProperty Name="StudentId" ColumnName="StudentId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Students">
+      <EntityTypeMapping TypeName="TeacherDBModel.Student">
+        <MappingFragment StoreEntitySet="Students">
+          <ScalarProperty Name="StudentId" ColumnName="StudentId" />
+          <ScalarProperty Name="StudentName" ColumnName="StudentName" />
+          <ScalarProperty Name="StudentMobile" ColumnName="StudentMobile" />
+          <ScalarProperty Name="ParentMobile" ColumnName="ParentMobile" />
+          <ScalarProperty Name="StudentAddress" ColumnName="StudentAddress" />
+          <ScalarProperty Name="Notes" ColumnName="Notes" />
+          <ScalarProperty Name="GroupId" ColumnName="GroupId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="StudentTests">
+      <EntityTypeMapping TypeName="TeacherDBModel.StudentTest">
+        <MappingFragment StoreEntitySet="StudentTests">
+          <ScalarProperty Name="StudentTestID" ColumnName="StudentTestID" />
+          <ScalarProperty Name="StudentId" ColumnName="StudentId" />
+          <ScalarProperty Name="TestId" ColumnName="TestId" />
+          <ScalarProperty Name="StudentGrade" ColumnName="StudentGrade" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="TeacherDBModel.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tests">
+      <EntityTypeMapping TypeName="TeacherDBModel.Test">
+        <MappingFragment StoreEntitySet="Tests">
+          <ScalarProperty Name="TestId" ColumnName="TestId" />
+          <ScalarProperty Name="TestName" ColumnName="TestName" />
+          <ScalarProperty Name="TestDate" ColumnName="TestDate" />
+          <ScalarProperty Name="TestGrade" ColumnName="TestGrade" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="TeacherDBModel.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="UserPassword" ColumnName="UserPassword" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="sp_alterdiagram" FunctionName="TeacherDBModel.Store.sp_alterdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_creatediagram" FunctionName="TeacherDBModel.Store.sp_creatediagram" />
+    <FunctionImportMapping FunctionImportName="sp_dropdiagram" FunctionName="TeacherDBModel.Store.sp_dropdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_GroupDelete" FunctionName="TeacherDBModel.Store.sp_GroupDelete" />
+    <FunctionImportMapping FunctionImportName="sp_GroupInsert" FunctionName="TeacherDBModel.Store.sp_GroupInsert" />
+    <FunctionImportMapping FunctionImportName="sp_GroupsReadAll" FunctionName="TeacherDBModel.Store.sp_GroupsReadAll">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="TeacherDBModel.sp_GroupsReadAll_Result">
+          <ScalarProperty Name="GroupId" ColumnName="GroupId" />
+          <ScalarProperty Name="GroupName" ColumnName="GroupName" />
+          <ScalarProperty Name="GroupLocation" ColumnName="GroupLocation" />
+          <ScalarProperty Name="GroupDate" ColumnName="GroupDate" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_GroupsReadbyID" FunctionName="TeacherDBModel.Store.sp_GroupsReadbyID">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="TeacherDBModel.sp_GroupsReadbyID_Result">
+          <ScalarProperty Name="GroupId" ColumnName="GroupId" />
+          <ScalarProperty Name="GroupName" ColumnName="GroupName" />
+          <ScalarProperty Name="GroupLocation" ColumnName="GroupLocation" />
+          <ScalarProperty Name="GroupDate" ColumnName="GroupDate" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_GroupsUpdate" FunctionName="TeacherDBModel.Store.sp_GroupsUpdate" />
+    <FunctionImportMapping FunctionImportName="sp_helpdiagramdefinition" FunctionName="TeacherDBModel.Store.sp_helpdiagramdefinition">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="TeacherDBModel.sp_helpdiagramdefinition_Result">
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_helpdiagrams" FunctionName="TeacherDBModel.Store.sp_helpdiagrams">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="TeacherDBModel.sp_helpdiagrams_Result">
+          <ScalarProperty Name="Database" ColumnName="Database" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Owner" ColumnName="Owner" />
+          <ScalarProperty Name="OwnerID" ColumnName="OwnerID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_renamediagram" FunctionName="TeacherDBModel.Store.sp_renamediagram" />
+    <FunctionImportMapping FunctionImportName="sp_StudentDelete" FunctionName="TeacherDBModel.Store.sp_StudentDelete" />
+    <FunctionImportMapping FunctionImportName="sp_StudentInsert" FunctionName="TeacherDBModel.Store.sp_StudentInsert" />
+    <FunctionImportMapping FunctionImportName="sp_StudentsReadAll" FunctionName="TeacherDBModel.Store.sp_StudentsReadAll">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="TeacherDBModel.sp_StudentsReadAll_Result">
+          <ScalarProperty Name="StudentId" ColumnName="StudentId" />
+          <ScalarProperty Name="StudentName" ColumnName="StudentName" />
+          <ScalarProperty Name="StudentMobile" ColumnName="StudentMobile" />
+          <ScalarProperty Name="ParentMobile" ColumnName="ParentMobile" />
+          <ScalarProperty Name="StudentAddress" ColumnName="StudentAddress" />
+          <ScalarProperty Name="Notes" ColumnName="Notes" />
+          <ScalarProperty Name="GroupId" ColumnName="GroupId" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_StudentsReadbyGroupId" FunctionName="TeacherDBModel.Store.sp_StudentsReadbyGroupId">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="TeacherDBModel.sp_StudentsReadbyGroupId_Result">
+          <ScalarProperty Name="StudentId" ColumnName="StudentId" />
+          <ScalarProperty Name="StudentName" ColumnName="StudentName" />
+          <ScalarProperty Name="StudentMobile" ColumnName="StudentMobile" />
+          <ScalarProperty Name="ParentMobile" ColumnName="ParentMobile" />
+          <ScalarProperty Name="StudentAddress" ColumnName="StudentAddress" />
+          <ScalarProperty Name="Notes" ColumnName="Notes" />
+          <ScalarProperty Name="GroupId" ColumnName="GroupId" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_StudentsReadbyID" FunctionName="TeacherDBModel.Store.sp_StudentsReadbyID">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="TeacherDBModel.sp_StudentsReadbyID_Result">
+          <ScalarProperty Name="StudentId" ColumnName="StudentId" />
+          <ScalarProperty Name="StudentName" ColumnName="StudentName" />
+          <ScalarProperty Name="StudentMobile" ColumnName="StudentMobile" />
+          <ScalarProperty Name="ParentMobile" ColumnName="ParentMobile" />
+          <ScalarProperty Name="StudentAddress" ColumnName="StudentAddress" />
+          <ScalarProperty Name="Notes" ColumnName="Notes" />
+          <ScalarProperty Name="GroupId" ColumnName="GroupId" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_StudentsUpdate" FunctionName="TeacherDBModel.Store.sp_StudentsUpdate" />
+    <FunctionImportMapping FunctionImportName="sp_upgraddiagrams" FunctionName="TeacherDBModel.Store.sp_upgraddiagrams" />
+  </EntityContainerMapping>
+</Mapping>

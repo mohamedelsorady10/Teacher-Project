@@ -1,0 +1,120 @@
+E:\Teacher project\AaserHRSystem\PresentationLayerPL\bin\Debug\PresentationLayerPL.exe.config
+E:\Teacher project\AaserHRSystem\PresentationLayerPL\bin\Debug\PresentationLayerPL.exe
+E:\Teacher project\AaserHRSystem\PresentationLayerPL\bin\Debug\PresentationLayerPL.pdb
+E:\Teacher project\AaserHRSystem\PresentationLayerPL\obj\Debug\PresentationLayerWinPL.csprojAssemblyReference.cache
+E:\Teacher project\AaserHRSystem\PresentationLayerPL\obj\Debug\PresentationLayerPL.Properties.Resources.resources
+E:\Teacher project\AaserHRSystem\PresentationLayerPL\obj\Debug\PresentationLayerWinPL.csproj.GenerateResource.cache
+E:\Teacher project\AaserHRSystem\PresentationLayerPL\obj\Debug\PresentationLayerWinPL.csproj.CoreCompileInputs.cache
+E:\Teacher project\AaserHRSystem\PresentationLayerPL\obj\Debug\PresentationLayerPL.exe
+E:\Teacher project\AaserHRSystem\PresentationLayerPL\obj\Debug\PresentationLayerPL.pdb
+E:\Teacher project\AaserHRSystem\PresentationLayerPL\obj\Debug\PresentationLayerPL.StudentsFrm.resources
+E:\Teacher project\AaserHRSystem\PresentationLayerPL\obj\Debug\PresentationLayerPL.GroupsFrm.resources
+E:\Teacher project\AaserHRSystem\PresentationLayerPL\bin\Debug\BusinessLayerBL.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerPL\bin\Debug\DataAccessLayerDAL.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerPL\bin\Debug\EntityFramework.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerPL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerPL\bin\Debug\BusinessLayerBL.pdb
+E:\Teacher project\AaserHRSystem\PresentationLayerPL\bin\Debug\DataAccessLayerDAL.pdb
+E:\Teacher project\AaserHRSystem\PresentationLayerPL\bin\Debug\DataAccessLayerDAL.dll.config
+E:\Teacher project\AaserHRSystem\PresentationLayerPL\bin\Debug\EntityFramework.xml
+E:\Teacher project\AaserHRSystem\PresentationLayerPL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Teacher project\AaserHRSystem\PresentationLayerPL\obj\Debug\PresentationLayerWinPL.csproj.CopyComplete
+E:\Teacher project\AaserHRSystem\PresentationLayerPL\obj\Debug\PresentationLayerPL.MainFrm.resources
+E:\Teacher project\AaserHRSystem\PresentationLayerPL\obj\Debug\PresentationLayerPL.TestsFrm.resources
+E:\Teacher project\AaserHRSystem\PresentationLayerPL\obj\Debug\PresentationLayerPL.StudentsTestFrm.resources
+E:\Teacher project\Teacher Pro\PresentationLayerPL\bin\Debug\PresentationLayerPL.exe.config
+E:\Teacher project\Teacher Pro\PresentationLayerPL\bin\Debug\PresentationLayerPL.exe
+E:\Teacher project\Teacher Pro\PresentationLayerPL\bin\Debug\PresentationLayerPL.pdb
+E:\Teacher project\Teacher Pro\PresentationLayerPL\bin\Debug\BusinessLayerBL.dll
+E:\Teacher project\Teacher Pro\PresentationLayerPL\bin\Debug\DataAccessLayerDAL.dll
+E:\Teacher project\Teacher Pro\PresentationLayerPL\bin\Debug\EntityFramework.dll
+E:\Teacher project\Teacher Pro\PresentationLayerPL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Teacher project\Teacher Pro\PresentationLayerPL\bin\Debug\BusinessLayerBL.pdb
+E:\Teacher project\Teacher Pro\PresentationLayerPL\bin\Debug\DataAccessLayerDAL.pdb
+E:\Teacher project\Teacher Pro\PresentationLayerPL\bin\Debug\DataAccessLayerDAL.dll.config
+E:\Teacher project\Teacher Pro\PresentationLayerPL\bin\Debug\EntityFramework.xml
+E:\Teacher project\Teacher Pro\PresentationLayerPL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Teacher project\Teacher Pro\PresentationLayerPL\obj\Debug\PresentationLayerWinPL.csprojAssemblyReference.cache
+E:\Teacher project\Teacher Pro\PresentationLayerPL\obj\Debug\PresentationLayerPL.GroupsFrm.resources
+E:\Teacher project\Teacher Pro\PresentationLayerPL\obj\Debug\PresentationLayerPL.MainFrm.resources
+E:\Teacher project\Teacher Pro\PresentationLayerPL\obj\Debug\PresentationLayerPL.Properties.Resources.resources
+E:\Teacher project\Teacher Pro\PresentationLayerPL\obj\Debug\PresentationLayerPL.StudentsFrm.resources
+E:\Teacher project\Teacher Pro\PresentationLayerPL\obj\Debug\PresentationLayerPL.StudentsTestFrm.resources
+E:\Teacher project\Teacher Pro\PresentationLayerPL\obj\Debug\PresentationLayerPL.TestsFrm.resources
+E:\Teacher project\Teacher Pro\PresentationLayerPL\obj\Debug\PresentationLayerWinPL.csproj.GenerateResource.cache
+E:\Teacher project\Teacher Pro\PresentationLayerPL\obj\Debug\PresentationLayerWinPL.csproj.CoreCompileInputs.cache
+E:\Teacher project\Teacher Pro\PresentationLayerPL\obj\Debug\PresentationLayerWinPL.csproj.CopyComplete
+E:\Teacher project\Teacher Pro\PresentationLayerPL\obj\Debug\PresentationLayerPL.exe
+E:\Teacher project\Teacher Pro\PresentationLayerPL\obj\Debug\PresentationLayerPL.pdb
+E:\Teacher project\Teacher Pro\PresentationLayerPL\obj\Debug\PresentationLayerPL.AttendanceFrm.resources
+E:\Teacher project\Teacher Pro\PresentationLayerPL\obj\Debug\PresentationLayerPL.PaymentsFrm.resources
+E:\Teacher project\Teacher Pro\PresentationLayerPL\obj\Debug\PresentationLayerPL.Login.resources
+E:\Teacher project\Teacher Pro\PresentationLayerPL\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+E:\Teacher project\Teacher Pro\PresentationLayerPL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+E:\Teacher project\Teacher Pro\PresentationLayerPL\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+E:\Teacher project\Teacher Pro\PresentationLayerPL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+E:\Teacher project\Teacher Pro\PresentationLayerPL\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Teacher project\Teacher Pro\PresentationLayerPL\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+E:\Teacher project\Teacher Pro\PresentationLayerPL\bin\Debug\Microsoft.ReportViewer.Design.DLL
+E:\Teacher project\Teacher Pro\PresentationLayerPL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\Teacher project\Teacher Pro\PresentationLayerPL\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+E:\Teacher project\Teacher Pro\PresentationLayerPL\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+E:\Teacher project\Teacher Pro\PresentationLayerPL\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+E:\Teacher project\Teacher Pro\PresentationLayerPL\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Teacher project\Teacher Pro\PresentationLayerPL\bin\Debug\EnvDTE.dll
+E:\Teacher project\Teacher Pro\PresentationLayerPL\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Teacher project\Teacher Pro\PresentationLayerPL\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Teacher project\Teacher Pro\PresentationLayerPL\bin\Debug\EnvDTE80.dll
+E:\Teacher project\Teacher Pro\PresentationLayerPL\bin\Debug\stdole.dll
+E:\Teacher project\Teacher Pro\PresentationLayerPL\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Teacher project\Teacher Pro\PresentationLayerPL\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Teacher project\Teacher Pro\PresentationLayerPL\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Teacher project\Teacher Pro\PresentationLayerPL\bin\Debug\Microsoft.MSXML.dll
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\bin\Debug\PresentationLayerPL.exe.config
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\bin\Debug\PresentationLayerPL.exe
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\bin\Debug\PresentationLayerPL.pdb
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\bin\Debug\BusinessLayerBL.dll
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\bin\Debug\DataAccessLayerDAL.dll
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\bin\Debug\EntityFramework.dll
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\bin\Debug\EntityFramework.SqlServer.dll
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\bin\Debug\Microsoft.ReportViewer.Design.DLL
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\bin\Debug\EnvDTE.dll
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\bin\Debug\EnvDTE80.dll
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\bin\Debug\stdole.dll
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\bin\Debug\Microsoft.MSXML.dll
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\bin\Debug\BusinessLayerBL.pdb
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\bin\Debug\DataAccessLayerDAL.pdb
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\bin\Debug\DataAccessLayerDAL.dll.config
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\bin\Debug\EntityFramework.xml
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\bin\Debug\EntityFramework.SqlServer.xml
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\obj\Debug\PresentationLayerWinPL.csprojAssemblyReference.cache
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\obj\Debug\PresentationLayerPL.AttendanceFrm.resources
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\obj\Debug\PresentationLayerPL.GroupsFrm.resources
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\obj\Debug\PresentationLayerPL.Login.resources
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\obj\Debug\PresentationLayerPL.MainFrm.resources
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\obj\Debug\PresentationLayerPL.PaymentsFrm.resources
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\obj\Debug\PresentationLayerPL.Properties.Resources.resources
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\obj\Debug\PresentationLayerPL.StudentsFrm.resources
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\obj\Debug\PresentationLayerPL.StudentsTestFrm.resources
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\obj\Debug\PresentationLayerPL.TestsFrm.resources
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\obj\Debug\PresentationLayerWinPL.csproj.GenerateResource.cache
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\obj\Debug\PresentationLayerWinPL.csproj.CoreCompileInputs.cache
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\obj\Debug\PresentationLayerWinPL.csproj.CopyComplete
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\obj\Debug\PresentationLayerPL.exe
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\PresentationLayerPL\obj\Debug\PresentationLayerPL.pdb

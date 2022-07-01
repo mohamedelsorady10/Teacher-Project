@@ -1,0 +1,12 @@
+E:\Teacher project\AaserHRSystem\WinControlsLibraryUCL\bin\Debug\WinControlsLibraryUCL.dll
+E:\Teacher project\AaserHRSystem\WinControlsLibraryUCL\bin\Debug\WinControlsLibraryUCL.pdb
+E:\Teacher project\AaserHRSystem\WinControlsLibraryUCL\obj\Debug\WinControlsLibraryUCL.csprojAssemblyReference.cache
+E:\Teacher project\AaserHRSystem\WinControlsLibraryUCL\obj\Debug\WinControlsLibraryUCL.csproj.CoreCompileInputs.cache
+E:\Teacher project\AaserHRSystem\WinControlsLibraryUCL\obj\Debug\WinControlsLibraryUCL.dll
+E:\Teacher project\AaserHRSystem\WinControlsLibraryUCL\obj\Debug\WinControlsLibraryUCL.pdb
+E:\Teacher project\Teacher Pro\WinControlsLibraryUCL\bin\Debug\WinControlsLibraryUCL.dll
+E:\Teacher project\Teacher Pro\WinControlsLibraryUCL\bin\Debug\WinControlsLibraryUCL.pdb
+E:\Teacher project\Teacher Pro\WinControlsLibraryUCL\obj\Debug\WinControlsLibraryUCL.csprojAssemblyReference.cache
+E:\Teacher project\Teacher Pro\WinControlsLibraryUCL\obj\Debug\WinControlsLibraryUCL.csproj.CoreCompileInputs.cache
+E:\Teacher project\Teacher Pro\WinControlsLibraryUCL\obj\Debug\WinControlsLibraryUCL.dll
+E:\Teacher project\Teacher Pro\WinControlsLibraryUCL\obj\Debug\WinControlsLibraryUCL.pdb

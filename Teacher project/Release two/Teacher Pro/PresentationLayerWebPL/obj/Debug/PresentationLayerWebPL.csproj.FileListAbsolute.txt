@@ -1,0 +1,420 @@
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\PresentationLayerWebPL.dll.config
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\PresentationLayerWebPL.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\PresentationLayerWebPL.pdb
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\csc.exe
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\csc.exe.config
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\csc.rsp
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\csi.exe
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\csi.exe.config
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\csi.rsp
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\System.AppContext.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\System.Collections.Immutable.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\System.Console.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\System.IO.Compression.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\System.IO.FileSystem.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\System.IO.Pipes.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\System.Reflection.Metadata.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\System.Security.AccessControl.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\System.Security.Claims.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\System.ValueTuple.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\System.Xml.XPath.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\vbc.exe
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\vbc.exe.config
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\vbc.rsp
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\VBCSCompiler.exe
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\roslyn\VBCSCompiler.exe.config
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\Antlr3.Runtime.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\EntityFramework.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\EntityFramework.SqlServer.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\Microsoft.Owin.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\Microsoft.Owin.Security.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\Microsoft.Owin.Security.Google.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\Microsoft.Web.Infrastructure.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\Newtonsoft.Json.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\Owin.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\System.Web.Helpers.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\System.Web.Mvc.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\System.Web.Optimization.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\System.Web.Razor.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\System.Web.WebPages.Deployment.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\System.Web.WebPages.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\System.Web.WebPages.Razor.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\WebGrease.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\System.Web.Helpers.xml
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\System.Web.Mvc.xml
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\System.Web.Optimization.xml
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\System.Web.Razor.xml
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\System.Web.WebPages.xml
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\System.Web.WebPages.Deployment.xml
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\System.Web.WebPages.Razor.xml
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\Newtonsoft.Json.xml
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\Antlr3.Runtime.pdb
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\EntityFramework.xml
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\EntityFramework.SqlServer.xml
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\Microsoft.Owin.xml
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\Microsoft.Owin.Security.xml
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\Microsoft.Owin.Security.Google.xml
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\obj\Debug\PresentationLayerWebPL.csprojAssemblyReference.cache
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\obj\Debug\PresentationLayerWebPL.csproj.CoreCompileInputs.cache
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\obj\Debug\PresentationLayerWebPL.csproj.CopyComplete
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\obj\Debug\PresentationLayerWebPL.dll
+E:\Teacher project\AaserHRSystem\PresentationLayerWebPL\obj\Debug\PresentationLayerWebPL.pdb
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\PresentationLayerWebPL.dll.config
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\PresentationLayerWebPL.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\PresentationLayerWebPL.pdb
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\csc.exe
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\csc.exe.config
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\csc.rsp
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\csi.exe
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\csi.exe.config
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\csi.rsp
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.AppContext.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Collections.Immutable.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Console.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.IO.Compression.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.IO.FileSystem.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.IO.Pipes.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Reflection.Metadata.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Security.AccessControl.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Security.Claims.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.ValueTuple.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Xml.XPath.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\vbc.exe
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\vbc.exe.config
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\vbc.rsp
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\VBCSCompiler.exe
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\roslyn\VBCSCompiler.exe.config
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\Antlr3.Runtime.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\EntityFramework.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\EntityFramework.SqlServer.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.Google.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Web.Infrastructure.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\Newtonsoft.Json.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\Owin.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\System.Web.Helpers.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\System.Web.Mvc.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\System.Web.Optimization.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\System.Web.Razor.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\System.Web.WebPages.Deployment.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\System.Web.WebPages.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\System.Web.WebPages.Razor.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\WebGrease.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\System.Web.Helpers.xml
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\System.Web.Mvc.xml
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\System.Web.Optimization.xml
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\System.Web.Razor.xml
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\System.Web.WebPages.xml
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\System.Web.WebPages.Deployment.xml
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\System.Web.WebPages.Razor.xml
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\Newtonsoft.Json.xml
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\Antlr3.Runtime.pdb
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\EntityFramework.xml
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\EntityFramework.SqlServer.xml
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.xml
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.xml
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.Google.xml
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\obj\Debug\PresentationLayerWebPL.csprojAssemblyReference.cache
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\obj\Debug\PresentationLayerWebPL.csproj.CoreCompileInputs.cache
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\obj\Debug\PresentationLayerWebPL.csproj.CopyComplete
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\obj\Debug\PresentationLayerWebPL.dll
+E:\Teacher project\Teacher Pro\PresentationLayerWebPL\obj\Debug\PresentationLayerWebPL.pdb
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\PresentationLayerWebPL.dll.config
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\PresentationLayerWebPL.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\PresentationLayerWebPL.pdb
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\csc.exe
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\csc.exe.config
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\csc.rsp
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\csi.exe
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\csi.exe.config
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\csi.rsp
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.AppContext.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Collections.Immutable.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Console.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.IO.Compression.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.IO.FileSystem.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.IO.Pipes.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Reflection.Metadata.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Security.AccessControl.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Security.Claims.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.ValueTuple.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Xml.XPath.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\vbc.exe
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\vbc.exe.config
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\vbc.rsp
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\VBCSCompiler.exe
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\roslyn\VBCSCompiler.exe.config
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\Antlr3.Runtime.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\EntityFramework.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\EntityFramework.SqlServer.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.Google.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Web.Infrastructure.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\Newtonsoft.Json.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\Owin.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\System.Web.Helpers.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\System.Web.Mvc.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\System.Web.Optimization.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\System.Web.Razor.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\System.Web.WebPages.Deployment.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\System.Web.WebPages.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\System.Web.WebPages.Razor.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\WebGrease.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\System.Web.Helpers.xml
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\System.Web.Mvc.xml
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\System.Web.Optimization.xml
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\System.Web.Razor.xml
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\System.Web.WebPages.xml
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\System.Web.WebPages.Deployment.xml
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\System.Web.WebPages.Razor.xml
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\Newtonsoft.Json.xml
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\Antlr3.Runtime.pdb
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\EntityFramework.xml
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\EntityFramework.SqlServer.xml
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.xml
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.xml
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.Google.xml
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\obj\Debug\PresentationLayerWebPL.csprojAssemblyReference.cache
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\obj\Debug\PresentationLayerWebPL.csproj.CoreCompileInputs.cache
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\obj\Debug\PresentationLayerWebPL.csproj.CopyComplete
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\obj\Debug\PresentationLayerWebPL.dll
+E:\Teacher project\Release One\Teacher Pro\PresentationLayerWebPL\obj\Debug\PresentationLayerWebPL.pdb
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\PresentationLayerWebPL.dll.config
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\PresentationLayerWebPL.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\PresentationLayerWebPL.pdb
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\csc.exe
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\csc.exe.config
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\csc.rsp
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\csi.exe
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\csi.exe.config
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\csi.rsp
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\Microsoft.Managed.Core.targets
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.AppContext.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Collections.Immutable.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Console.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.IO.Compression.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.IO.FileSystem.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.IO.Pipes.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Reflection.Metadata.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Security.AccessControl.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Security.Claims.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Security.Principal.Windows.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.ValueTuple.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Xml.XmlDocument.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Xml.XPath.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\vbc.exe
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\vbc.exe.config
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\vbc.rsp
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\VBCSCompiler.exe
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\roslyn\VBCSCompiler.exe.config
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\Antlr3.Runtime.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\EntityFramework.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\EntityFramework.SqlServer.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.AspNet.Identity.Core.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.Cookies.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.Facebook.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.Google.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.OAuth.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.Twitter.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Web.Infrastructure.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\Newtonsoft.Json.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\Owin.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\System.Web.Helpers.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\System.Web.Mvc.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\System.Web.Optimization.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\System.Web.Razor.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\System.Web.WebPages.Deployment.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\System.Web.WebPages.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\System.Web.WebPages.Razor.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\WebGrease.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\System.Web.Helpers.xml
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\System.Web.Mvc.xml
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\System.Web.Optimization.xml
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\System.Web.Razor.xml
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\System.Web.WebPages.xml
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\System.Web.WebPages.Deployment.xml
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\System.Web.WebPages.Razor.xml
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\Newtonsoft.Json.xml
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\Antlr3.Runtime.pdb
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\EntityFramework.xml
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\EntityFramework.SqlServer.xml
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.AspNet.Identity.Core.xml
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.xml
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.xml
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.Facebook.xml
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.Cookies.xml
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.Google.xml
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.Twitter.xml
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.Owin.Security.OAuth.xml
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\obj\Debug\PresentationLayerWebPL.csprojAssemblyReference.cache
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\obj\Debug\PresentationLayerWebPL.csproj.CoreCompileInputs.cache
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\obj\Debug\PresentationLayerWebPL.csproj.CopyComplete
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\obj\Debug\PresentationLayerWebPL.dll
+D:\projects_dotNet elsordy\Teacher project\Release two\Teacher Pro\PresentationLayerWebPL\obj\Debug\PresentationLayerWebPL.pdb

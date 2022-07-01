@@ -1,0 +1,17 @@
+E:\Teacher project\AaserHRSystem\AaserFrameworkFCL\bin\Debug\AaserFrameworkFCL.dll
+E:\Teacher project\AaserHRSystem\AaserFrameworkFCL\bin\Debug\AaserFrameworkFCL.pdb
+E:\Teacher project\AaserHRSystem\AaserFrameworkFCL\obj\Debug\AaserFrameworkFCL.csproj.CoreCompileInputs.cache
+E:\Teacher project\AaserHRSystem\AaserFrameworkFCL\obj\Debug\AaserFrameworkFCL.dll
+E:\Teacher project\AaserHRSystem\AaserFrameworkFCL\obj\Debug\AaserFrameworkFCL.pdb
+E:\Teacher project\Teacher Pro\AaserFrameworkFCL\bin\Debug\AaserFrameworkFCL.dll
+E:\Teacher project\Teacher Pro\AaserFrameworkFCL\bin\Debug\AaserFrameworkFCL.pdb
+E:\Teacher project\Teacher Pro\AaserFrameworkFCL\obj\Debug\AaserFrameworkFCL.csprojAssemblyReference.cache
+E:\Teacher project\Teacher Pro\AaserFrameworkFCL\obj\Debug\AaserFrameworkFCL.csproj.CoreCompileInputs.cache
+E:\Teacher project\Teacher Pro\AaserFrameworkFCL\obj\Debug\AaserFrameworkFCL.dll
+E:\Teacher project\Teacher Pro\AaserFrameworkFCL\obj\Debug\AaserFrameworkFCL.pdb
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\AaserFrameworkFCL\bin\Debug\AaserFrameworkFCL.dll
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\AaserFrameworkFCL\bin\Debug\AaserFrameworkFCL.pdb
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\AaserFrameworkFCL\obj\Debug\AaserFrameworkFCL.csprojAssemblyReference.cache
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\AaserFrameworkFCL\obj\Debug\AaserFrameworkFCL.csproj.CoreCompileInputs.cache
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\AaserFrameworkFCL\obj\Debug\AaserFrameworkFCL.dll
+D:\projects_dotNet elsordy\Teacher project\ALl Sources\Teacher Pro\AaserFrameworkFCL\obj\Debug\AaserFrameworkFCL.pdb
